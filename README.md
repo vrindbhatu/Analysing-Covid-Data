@@ -18,7 +18,7 @@
 3. Looking at the total cases vs the population (Highest infection rate)and from that finding the percent of population that got covid.
 4. Looking at countries that has highest death counts.
 
--> Along with this I also created CTE (Common Table Experession), a TEMP table and VIEW which can store data for later viszualizations. 
+-> Along with this I also created CTE (Common Table Experession) to enable users to more easily write and maintain complex queries via increased readability and simplification, a TEMP table and VIEW which can store data for later viszualizations. 
 
 ### Exporting data from SQL Server and loading into Tableau
 
